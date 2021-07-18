@@ -5,8 +5,7 @@
 ## Here are some examples of it
 ### ![Screenshot_4](https://user-images.githubusercontent.com/49405291/126059845-90dc8b73-160b-4ca8-9f2f-4f52ef8e1309.png) ![Screenshot_5](https://user-images.githubusercontent.com/49405291/126059823-abfe5524-d8df-4465-ac3f-fc0125142156.png) 
 #### ![Screenshot_6](https://user-images.githubusercontent.com/49405291/126059828-5036d42e-7660-4565-ac78-6362b7a34be8.png)  ![Screenshot_7](https://user-images.githubusercontent.com/49405291/126059830-e2b4e95e-fb31-4269-8097-7559a932f871.png) 
-
-###--------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### **How can you use it?**
 ##### 1. Join this server - https://discord.gg/qGb3sMCV
 ##### 2. Just send a "Hi" or a "Hello" to the bot(Intelli_Agent#4097), it will start interacting with you :D
