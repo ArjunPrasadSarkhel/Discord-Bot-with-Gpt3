@@ -1,0 +1,1 @@
+//This file will store the user ids of people using this bot, use set to get the unique ids
