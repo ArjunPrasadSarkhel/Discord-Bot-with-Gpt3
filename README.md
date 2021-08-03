@@ -7,7 +7,7 @@
 #### ![Screenshot_6](https://user-images.githubusercontent.com/49405291/126059828-5036d42e-7660-4565-ac78-6362b7a34be8.png) ![Screenshot_7](https://user-images.githubusercontent.com/49405291/126059830-e2b4e95e-fb31-4269-8097-7559a932f871.png) 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### **How can you use it?**
-##### 1. Join this server - https://discord.gg/qGb3sMCV
+##### 1. Join this server - https://discord.gg/3eXpDTjw
 ##### 2. Just send a "Hi" or a "Hello" to the bot(Intelli_Agent#4097), it will start interacting with you :D
 
 ### **Some information about this bot & how you can use it too!(Provided you have the OpenAI api Key)**
